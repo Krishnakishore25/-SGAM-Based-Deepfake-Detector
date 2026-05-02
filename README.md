@@ -1,6 +1,8 @@
 # -SGAM-Based-Deepfake-Detector
 A Spatial Guided Deepfake Detection mechanism is developed to find the deepfake images by learning the spatial and semantic artifacts in the images. This is developed using CNN and Transformer.
 
+## DOWNLOAD THE DATASET THROUGH THIS LINK: https://drive.google.com/drive/folders/17Lmq4gYlZxuGTpP0_kY9oWE0ssFiIvr0?usp=sharing
+
 ## Step 1 — Install Required Libraries
 
 Run the following command before executing the notebook.
